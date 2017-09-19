@@ -17,15 +17,15 @@
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 170,
             "modifiedTime": 1505843082000,
             "changeTime": 1505843082000,
-            "isWorkspace": false,
-            "contentHash": "901fd9f4f6a789d8f603487c8cac2afda4d388a7"
+            "contentHash": "901fd9f4f6a789d8f603487c8cac2afda4d388a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -33,10 +33,10 @@
         {
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1505842111000,
-            "changeTime": 1505842111000,
-            "contentHash": "3df8033f80e11fefd4a514d70989d592a62a1fec",
+            "size": 306,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "de4e9ffbcbe0bdf4b867716c7903a67f73b8ae34",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -48,25 +48,25 @@
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 102,
-            "modifiedTime": 1505844329000,
-            "changeTime": 1505844329000,
+            "size": 170,
+            "modifiedTime": 1505844702000,
+            "changeTime": 1505844702000,
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 408,
             "modifiedTime": 1505843229000,
             "changeTime": 1505843229000,
-            "isWorkspace": true,
-            "contentHash": "4e6a9363cd9eac603036e2276b8cbf6d9b7e3b0d"
+            "contentHash": "4e6a9363cd9eac603036e2276b8cbf6d9b7e3b0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -852,14 +852,14 @@
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1505844329000,
             "changeTime": 1505844329000,
-            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28"
+            "contentHash": "f6bd7d3a23295ae7ef7a6f8a51c67ae972d48a28",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -869,74 +869,347 @@
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 155,
-            "modifiedTime": 1505844372000,
-            "changeTime": 1505844372000,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+            "size": 182,
+            "modifiedTime": 1505844794000,
+            "changeTime": 1505844794000,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1505844329000,
             "changeTime": 1505844329000,
-            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce"
+            "contentHash": "93ad29ee05362ba61f7a3bbeabf9346e600169ce",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 107,
             "modifiedTime": 1505844385000,
             "changeTime": 1505844385000,
-            "contentHash": "a5c9b9b3a4ca13e6f26fff87b25355434a0e9dfb"
+            "contentHash": "a5c9b9b3a4ca13e6f26fff87b25355434a0e9dfb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1505844329000,
             "changeTime": 1505844329000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1505844329000,
             "changeTime": 1505844329000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1505844329000,
             "changeTime": 1505844329000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5659,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5999,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5663,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18117,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "510a42b88c0950427ab4ec7aa558588c9cc360bf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1505844618000,
+            "changeTime": 1505844618000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1505844702000,
+            "changeTime": 1505844702000,
+            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1505844647000,
+            "changeTime": 1505844647000,
+            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 342,
+            "modifiedTime": 1505844715000,
+            "changeTime": 1505844715000,
+            "contentHash": "86a186b5a8b9068c6299caa05cf1227d8b06b391"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1505844702000,
+            "changeTime": 1505844702000,
+            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1505844761000,
+            "changeTime": 1505844761000,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1505844775000,
+            "changeTime": 1505844775000,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1505844702000,
+            "changeTime": 1505844702000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1505844702000,
+            "changeTime": 1505844702000,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1505844668000,
+            "changeTime": 1505844668000,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1505844647000,
+            "changeTime": 1505844647000,
+            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1505844679000,
+            "changeTime": 1505844679000,
+            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1505844647000,
+            "changeTime": 1505844647000,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1505844647000,
+            "changeTime": 1505844647000,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/timbott/Documents/VisualStudioCode/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1505844647000,
+            "changeTime": 1505844647000,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
